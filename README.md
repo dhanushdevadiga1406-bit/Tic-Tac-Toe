@@ -22,3 +22,4 @@ Endpoints:
 2. The frontend will communicate with the backend at `http://localhost:3000`
 
 > Note: Loading `index.html` directly from `file://` may be blocked by browser security. Use a local server if needed.
+> Open http://localhost:8000 in your browser to play the game.
