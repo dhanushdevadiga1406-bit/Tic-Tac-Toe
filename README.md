@@ -1,5 +1,4 @@
 # Tic Tac Toe
-# Tic Tac Toe
 
 Tic Tac Toe is a simple and interactive two-player game built using HTML, CSS, and JavaScript. Players take turns placing **X** and **O** on a 3×3 grid, aiming to form a row, column, or diagonal with three matching symbols. The game includes win detection, draw detection, and a restart option, providing an engaging way to learn basic web development concepts and game logic.
 
